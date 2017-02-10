@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Serializable_Learning</string>
+
+    <string name="text1">ENTER FIRST NAME</string>
+    <string name="text2">ENTER LAST NAME</string>
+    <string name="text3">ENTER SWEET NAME</string>
+    <string name="text4">CLICK HERE</string>
+    <string name="text5">SHOWING TEXT</string>
+    <string name="text6">SHOWING TEXT2</string>
+    <string name="action_settings">Settings</string>
+</resources>
